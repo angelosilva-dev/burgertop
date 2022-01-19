@@ -354,7 +354,7 @@ footer#rodape{
 
 	}
 	main section#chefes{
-		background: url(../img/bg-founder.png) left bottom;
+		background: url(../img/bg-founder.png) bottom left;
 	}
 	main section#chefes h2, main section#populares h2, main section#news-letter h2{
 		font-weight: bold;
@@ -370,7 +370,8 @@ footer#rodape{
 		margin-top: 20px;
 	}
 	main section#chefes div.caixa img{
-		height: 100px; 
+		height: 80px; 
+		padding: 4px;
 	}
 	main section#chefes div.caixa h4{
 		font-size: 0.8em;
@@ -407,7 +408,7 @@ footer#rodape{
 	}
 	/* Big burger */
 	main section#big-burger{
-	 background: url(../img/bg-big-burger.png) left top;
+	 background: url(../img/bg-big-burger.png) center left;
 	}
 	main section#big-burger a, main section#populares a{
 		padding: 10px 10px 10px 10px;
@@ -484,7 +485,7 @@ footer#rodape{
 
 	/*news letter */
 	main section#news-letter{
-		background: url(../img/bg-subscribe.png) right center;
+		background: url(../img/bg-subscribe.png) center center;
 	}
 
 	main section#news-letter div#subscribe{
@@ -495,11 +496,12 @@ footer#rodape{
 
 	main section#news-letter div#subscribe input{
 		padding: 25px 20px 25px 25px;
+		font-size: 0.7em;
 	}
 
 	main section#news-letter div#subscribe button{
-		width: 150px;
-		font-size: 1em;
+		width: 90px;
+		font-size: 0.7em;
 	}
 
 }
@@ -725,13 +727,13 @@ footer#rodape{
 	}
 
 	main section#best-burger img, section#big-burger img{
-		width: 250px;
-		height: 250px;
-		margin-top: 35px;
+		width: 200px;
+		height: 200px;
+		margin-top: 15px;
 	}
 	main section#best-burger, section#estatisticas {
     	background: #f85946;
-    	padding: 60px 60px;
+    	padding: 20px 20px;
     }
 
 	main section#best-burger h2, main section#estatisticas h2{
