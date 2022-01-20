@@ -364,7 +364,7 @@ footer#rodape{
 	main section#chefes p, main section#populares p{
 		font-size: 1em;
 		width: 100%;
-		text-align: justify;
+		text-align: center;
 	}
 	main section#chefes div.caixa{
 		margin-top: 20px;
@@ -419,8 +419,8 @@ footer#rodape{
 
 	main section#big-burger p{
 		font-weight: 400;
-		font-size: 1em;
-		text-align: justify;
+		font-size: 1.1em;
+		text-align: center;
 	}
 	main section#big-burger #caixa-img{
 		margin-top: 20px;
@@ -493,6 +493,9 @@ footer#rodape{
 		padding: 40px 40px;
 		text-align: center;
 	}
+	main section#news-letter div#subscribe p{
+		font-size: 1em;
+	}
 
 	main section#news-letter div#subscribe input{
 		padding: 25px 20px 25px 25px;
@@ -537,7 +540,7 @@ footer#rodape{
 	main section#chefes p, main section#populares p{
 		font-size: 1em;
 		width: 100%;
-		text-align: justify;
+		text-align: center;
 	}
 	main section#chefes div.caixa{
 		margin-top: 20px;
@@ -595,7 +598,7 @@ footer#rodape{
 	main section#big-burger p{
 		font-weight: 400;
 		font-size: 1em;
-		text-align: justify;
+		text-align: center;
 	}
 	main section#big-burger h2{
 		margin-bottom: 5px;
@@ -706,7 +709,7 @@ footer#rodape{
 	main section#chefes p, main section#populares p{
 		font-size: 1em;
 		width: 100%;
-		text-align: justify;
+		text-align: center;
 	}
 	main section#chefes div.caixa{
 		margin-top: 20px;
@@ -744,7 +747,7 @@ footer#rodape{
 
 	main section#best-burger p, main section#estatisticas p{
 		font-size: 0.9em;
-		text-align: justify;
+		text-align: center;
 		width: 100%;
 		padding: 0;
 	}
@@ -769,7 +772,7 @@ footer#rodape{
 	main section#big-burger p{
 		font-weight: 400;
 		font-size: 1em;
-		text-align: justify;
+		text-align: center;
 	}
 	main section#big-burger h2{
 		margin-bottom: 5px;
